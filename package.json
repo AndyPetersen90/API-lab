@@ -1,0 +1,23 @@
+{
+  "name": "apis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndyPetersen90/API-lab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndyPetersen90/API-lab/issues"
+  },
+  "homepage": "https://github.com/AndyPetersen90/API-lab#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}

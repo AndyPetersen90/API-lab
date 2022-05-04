@@ -57,7 +57,7 @@ https://swapi.dev/api/starships/?search=Millennium+Falcon
 
 9) Request was missing req.query.id or req.body.text
 
-10) It just sends me all the posts.
+10) It just sends me all the posts. The server has not been built to accept a get query request.
 
 
 
