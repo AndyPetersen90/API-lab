@@ -1,0 +1,31 @@
+//Links for the API lab
+
+//Darth Vader//
+https://swapi.dev/api/people/?search=Darth+Vader
+
+//Alderaan//
+ttps://swapi.dev/api/planets/2
+
+//Millennium Falcon//
+https://swapi.dev/api/starships/10
+
+//C3-PO//
+https://swapi.dev/api/people/2
+https://swapi.dev/api/species/2/
+
+//Obi-Wan Kenobi//
+https://swapi.dev/api/films/1/
+https://swapi.dev/api/films/2/
+https://swapi.dev/api/films/3/
+https://swapi.dev/api/films/4/
+https://swapi.dev/api/films/5/
+https://swapi.dev/api/films/6/
+
+//Millennium Falcon Search//
+https://swapi.dev/api/starships/?search=Millennium+Falcon
+
+
+
+
+
+
